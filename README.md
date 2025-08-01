@@ -1,5 +1,9 @@
 # Final Project: Article Summarizer
 
+
+The notebook pretty well explains what I completed in the project.  I had a fed rate cuts article with 20 sentences.  The summarized articles had 7 for Lemmas and 8 for Tokens.
+
+
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
